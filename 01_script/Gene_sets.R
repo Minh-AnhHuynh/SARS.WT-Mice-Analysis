@@ -2,7 +2,7 @@
 ################################################################################
 # Example code (no function) for gene sets manipulation:
 #   - generate gene sets with deg()
-#   - put the gene sets togoether with Venn()
+#   - put the gene sets together with Venn()
 #   - plot the Venn object with setmap() or ggplot()
 #   - manipulate gene sets with unite(), discern(), overlap()
 ################################################################################
